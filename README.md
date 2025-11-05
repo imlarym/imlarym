@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Laryssa Mesquita</h2>
 
 ###
 
@@ -79,6 +79,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/imlarym/imlarym/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=imlarym.imlarym&"  />
+</div>
 
 ###
