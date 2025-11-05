@@ -73,14 +73,12 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/imlarym/imlarym/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://www.supanova.com.au/wp-content/uploads/2024/03/Felicity-Smoak-Lead.jpg"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/imlarym/imlarym/output/snake.svg" alt="Snake animation" />
 
 ###
