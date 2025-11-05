@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">Sou de São Paulo (SP), tenho 20 anos e curso Técnico em Desenvolvimento de Sistemas. Trabalho no Jornal Estadão, na área de Audiência e Análise de Dados de Usuários, unindo tecnologia e dados para gerar insights e melhorias.<br><br>Tenho desenvolvido fortes habilidades em Back-End e Front-End, criando soluções completas e funcionais.<br>Todos os meus projetos estão disponíveis aqui no GitHub, mostrando um pouco da minha evolução e paixão por tecnologia.<br><br>📫 Me encontre também no LinkedIn</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imlarym&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imlarym&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
@@ -75,20 +79,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=imlarym.imlarym&"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imlarym/imlarym/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imlarym/imlarym/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imlarym/imlarym/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img height="200" src="https://www.supanova.com.au/wp-content/uploads/2024/03/Felicity-Smoak-Lead.jpg"  />
 </div>
 
 ###
