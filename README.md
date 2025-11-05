@@ -74,13 +74,21 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://www.supanova.com.au/wp-content/uploads/2024/03/Felicity-Smoak-Lead.jpg"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=imlarym.imlarym&"  />
 </div>
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imlarym/imlarym/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imlarym/imlarym/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imlarym/imlarym/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=imlarym.imlarym&"  />
+  <img height="200" src="https://www.supanova.com.au/wp-content/uploads/2024/03/Felicity-Smoak-Lead.jpg"  />
 </div>
 
 ###
